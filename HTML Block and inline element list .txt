@@ -1,0 +1,53 @@
+HTML Block and inline element list by Code Dude
+
+
+HTML Block Level elements tags:
+
+
+<div>:             A generic container that groups other elements.
+<p>:               Represents a paragraph of text.
+<h1> to <h6>:      Heading elements for different levels of headings.
+<ul>:              Represents an unordered list.
+<ol>:              Represents an ordered (numbered) list.
+<li>:              Represents an individual item in a list (<ul> or <ol>).
+<blockquote>:      Represents a block quotation.
+<pre>:             Preformatted text that preserves whitespace and line breaks.
+<hr>:              Represents a horizontal rule (a thematic break).
+<table>:           Represents a table of data.
+<tr>:              Represents a row in a table.
+<td>:              Represents a data cell in a table.
+<th>:              Represents a header cell in a table.
+<figure>:          Represents self-contained content, such as an image with a caption.
+<figcaption>:      Represents a caption or legend for a figure.
+<article>:         Represents a self-contained composition or a blog post.
+<section>:         Represents a standalone section of content.
+<header>:          Represents the introductory portion or a container for a group of introductory content.
+<footer>:          Represents the footer of a document or a section.
+<nav>:             Represents a section of navigation links.
+
+
+
+HTML Inline Level elements tags:
+
+
+<span>:            A generic inline container.
+<a>:               Represents a hyperlink.
+<strong>:          Represents strong importance or emphasis.
+<em>:              Represents emphasized text.
+<b>:               Represents bold text.
+<i>:               Represents italicized text.
+<u>:               Represents underlined text.
+<s>:               Represents strikethrough text.
+<code>:            Represents a fragment of computer code.
+<cite>:            Represents the title of a work.
+<q>:               Represents a short inline quotation.
+<abbr>:            Represents an abbreviated form or acronym.
+<sub>:             Represents subscripted text.
+<sup>:             Represents superscripted text.
+<mark>:            Represents highlighted or marked text.
+<small>:           Represents smaller text.
+<del>:             Represents deleted or removed text.
+<ins>:             Represents inserted or added text.
+<var>:             Represents a variable or program argument.
+<time>:            Represents a specific time or date.
+
